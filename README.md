@@ -1,1 +1,5 @@
 # Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision
+A medical imaging web application developed using Deep Learning and Computer Vision. It enables researchers or healthcare professionals to upload brain MRI scans and automatically classify the images into four distinct categories: Pituitary, Glioma, Meningioma, or No Tumor.
+The web user interface is crafted with a modern, professional Light Olive Green clinical palette that is exceptionally clean and comfortable for long-term review.
+Features
+Multi-Class Classification: Detects and distinguishes between three main brain tumor types (Glioma, Meningioma, Pituitary) and healthy scan configurations (No Tumor).  Real-Time Inference: Fast model predictions powered by optimized TensorFlow backend frameworks.  Confidence Metrics: Accompanies classifications with an analytical percentage calculation indicating model certainty.  Elegant Medical UI: Uses a customized theme built on top of responsive Bootstrap 5 foundations for an intuitive UX.  
