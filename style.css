@@ -1,0 +1,67 @@
+/* Custom Olive Green Palette Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f4; /* Light olive-tinted background */
+    color: #333d33;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Typography Customization */
+.text-olive-dark {
+    color: #3b4d3b; /* Deep olive for headings */
+}
+
+.text-olive-muted {
+    color: #708270; /* Soft olive for secondary text */
+}
+
+/* Card Improvements */
+.card {
+    border: none;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+
+/* Form & Input Styling */
+.form-label {
+    font-weight: 600;
+    color: #4a5d4a;
+}
+
+.form-control:focus {
+    border-color: #8da48d;
+    box-shadow: 0 0 0 0.25rem rgba(141, 164, 141, 0.25);
+}
+
+/* Olive Green Primary Buttons */
+.btn-olive {
+    background-color: #607d60;
+    border-color: #607d60;
+    color: #ffffff;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.btn-olive:hover {
+    background-color: #4c644c;
+    border-color: #4c644c;
+    color: #ffffff;
+}
+
+/* Results Section */
+.border-olive-success {
+    border-left: 5px solid #4c644c;
+}
+
+#results img {
+    max-height: 400px;
+    margin-top: 15px;
+    object-fit: cover;
+    border: 1px solid #e2e8e2;
+}
